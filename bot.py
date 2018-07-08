@@ -4,7 +4,7 @@ from discord.ext.commands import Bot
 import asyncio
 
 
-TOKEN = 'NDY1NDIyNzg0NTM3OTUyMjU2.DiPP2g.nlFqKlOgGJwSMoDovrmvxtogFOU'
+TOKEN = 'TOKEN HERE!!'
 
 bot = commands.Bot(command_prefix = '#')
 
